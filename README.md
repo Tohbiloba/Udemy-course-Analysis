@@ -7,7 +7,7 @@ This analysis was carried out to identify the trends of how people relate with c
 # Data Structure
 The dataset was scrapped from Kaggle’s website. 
 
-![image](https://user-images.githubusercontent.com/101842162/179022221-7072c3ce-38fc-4fd2-9de8-7280f761c6d4.png)
+<p align="center"> ![image](https://user-images.githubusercontent.com/101842162/179022221-7072c3ce-38fc-4fd2-9de8-7280f761c6d4.png)<p>
 
 # Data Preparation
 This data has a total of 3,679 rows and 12 columns. I had a brief glance at the data in Excel, I checked for duplicates, blank cells in the dataset so as to ensure I have a unique dataset to work with.
