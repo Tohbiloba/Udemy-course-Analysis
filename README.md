@@ -45,7 +45,7 @@ The course title slicer on the dashboard will help get the enrollment rate of ea
 
 ![image](https://user-images.githubusercontent.com/101842162/179028939-0b753c84-999e-4bf2-83c0-17d5a633e869.png)
 
-*The analysis above shows how people relate with Udemy courses since 2011 to 2017.
+*The analysis above shows how people relate with Udemy courses since 2011 to 2017*.
 
 # Dashboard
 
